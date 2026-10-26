@@ -57,9 +57,3 @@ ai_resume_analyzer/
 ## Matching score
 
 The displayed score is an educational ranking estimate composed of 70% required-skill coverage and 30% TF-IDF cosine similarity. It is not a probability of being hired and should not be used as an employment decision.
-
-## Limitations
-
-- Scanned/image-only PDFs are not OCR-processed; upload a text-based PDF or DOCX.
-- Skill extraction is dictionary/keyword-based and may miss synonyms not defined in the code or CSV.
-- Results depend on the completeness and accuracy of the job-role and skill-dictionary CSV files.
