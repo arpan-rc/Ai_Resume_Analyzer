@@ -1,0 +1,25 @@
+AI RESUME ANALYZER & JOB RECOMMENDATION REPORT
+=======================================================
+Resume: Resume_A_Data_Analyst.docx
+Target Role: Machine Learning Engineer
+Match Score: 14.4%
+
+SKILLS FOUND:
+Python
+
+MISSING SKILLS:
+ML, scikit-learn, FastAPI, Docker
+
+TOP RECOMMENDED ROLES:
+1. Data Analyst (80.8%)
+2. NLP Engineer (17.9%)
+3. Computer Vision Engineer (17.9%)
+
+LEARNING ROADMAP:
+- Week 1 — Foundations and core concepts: Learn and practise ML.
+- Week 2 — Practical exercises and integration: Learn and practise scikit-learn.
+- Week 3 — Hands-on project development: Learn and practise FastAPI.
+- Week 4 — Testing, deployment, and revision: Learn and practise Docker.
+
+Scores are educational estimates based on skill overlap and TF-IDF similarity, not hiring decisions.
+Required skills are based on the project job-role dataset.

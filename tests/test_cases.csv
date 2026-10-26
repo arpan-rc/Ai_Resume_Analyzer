@@ -1,0 +1,4 @@
+Test Resume,Expected Top Role,Actual Top Role,Top Match Score (%),Comments
+Resume_A_Data_Analyst.docx,Data Analyst,Data Analyst,91.4,Passed - Top recommendation matches expected role
+Resume_B_ML_Engineer.docx,Machine Learning Engineer,Machine Learning Engineer,81.6,Passed - Top recommendation matches expected role
+Resume_C_NLP_Engineer.docx,NLP Engineer,NLP Engineer,89.6,Passed - Top recommendation matches expected role

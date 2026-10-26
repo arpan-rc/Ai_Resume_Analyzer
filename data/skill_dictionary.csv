@@ -1,0 +1,34 @@
+Skill,Category
+Python,Programming
+C++,Programming
+C#,Programming
+.NET,Programming
+SQL,Databases
+PostgreSQL,Databases
+SQLite,Databases
+Excel,Data & Analytics
+Pandas,Data & Analytics
+NumPy,Data & Analytics
+Power BI,Data & Analytics
+Plotly,Data & Analytics
+Matplotlib,Data & Analytics
+ML,Machine Learning
+Machine Learning,Machine Learning
+scikit-learn,Machine Learning
+deep learning,AI & Deep Learning
+LLM,AI & Deep Learning
+RAG,AI & Deep Learning
+NLP,NLP
+transformers,NLP
+Hugging Face,NLP
+spaCy,NLP
+OpenCV,Computer Vision
+CNN,Computer Vision
+YOLO,Computer Vision
+FastAPI,Backend & APIs
+APIs,Backend & APIs
+Docker,Cloud & DevOps
+MLflow,Cloud & DevOps
+Git,Tools
+GitHub,Tools
+Streamlit,Tools
